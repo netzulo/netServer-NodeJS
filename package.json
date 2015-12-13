@@ -1,0 +1,10 @@
+{
+  "name": "netLibraryTest",
+  "version": "0.0.0",
+  "description": "netLibraryTest",
+  "main": "app.js",
+  "author": {
+    "name": "winzulo",
+    "email": ""
+  }
+}
